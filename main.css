@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+color:white;
+background-color: green;
+text-align: center;
+margin: 0px ;
+padding: 10px;
+
+}
+
+/* .author-para{
+    text-align: center;
+    font-size: 10px;
+    
+} */
+
+#author-org{
+    text-align: center;
+   margin-bottom: 0px;
+    background-color: rgb(255, 251, 251);
+    padding-top: 7px;
+    padding-bottom: 10px;
+    
+
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+ 
+}
+
+p{
+    text-align: justify;
+    font-size: 18px;
+    /* padding: 5px; */
+    padding-left: 5px;
+    padding-right: 15px;
+    padding-bottom: 11px;
+    /* margin-bottom: 77px; */
+    /* margin-top: 30px; */
+    /* background-color: violet; */
+    
+}
+#firstid{
+    background-color: wheat;
+}
+
+#secondid{
+    background-color: #b8c78e;
+}
+
+#thirdid{
+    
+    background-color: #eec7c7;
+}
+#fourthid{
+    background-color: #c2f1cc;
+}
